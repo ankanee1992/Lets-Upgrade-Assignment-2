@@ -1,0 +1,17 @@
+.div1{
+    background-color: gray; 
+    height:2000px;
+    width:100%px;
+}
+.witch{
+    color:red;
+    background-color:black;
+    font-size:50px;
+    font-style:oblique;
+}
+.Hawk{
+    color:black;
+    background-color:rgb(230, 34, 171);
+    font-size:50px;
+    font-style:italic;
+}
